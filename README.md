@@ -98,7 +98,7 @@ Contributions are welcome! Please follow these steps:
 
 ## Notes
 
--   We greatly appreciate the application dataset provided by Androzoo, the reference to UI exploration methods from AutoDroid, and all developers who contribute to the open-source community.
+-   We greatly appreciate the application dataset provided by Androzoo, the reference to UI exploration methods from [AutoDroid](https://github.com/MobileLLM/AutoDroid/tree/newbranch), and all developers who contribute to the open-source community.
 -   Note that AdSeeker is currently for research purposes only. Users assume full responsibility for any unexpected issues arising during app exploration.
 -   If you reference this project in research, papers, or other projects, please provide proper citation. Thank you for respecting and supporting the intellectual property rights of this project.
 -   Some core files have been uploaded for this project, and we will continue to organize and update the complete code and documentation in the future.
