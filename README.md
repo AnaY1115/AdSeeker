@@ -52,8 +52,7 @@ The hierarchical structure of project code files is as follows:
 plaintext
 
 ```plaintext
-malicious-ad-detection/
-├── README.md                # Project documentation
+AdSeeker/
 ├── requirements.txt         # List of dependencies
 ├── main.py                  # Main program entry
 ├── config/                  # Configuration files directory
