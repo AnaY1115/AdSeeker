@@ -40,8 +40,9 @@ The system mainly includes the following modules:
 ### Usage Method
 
 1.  Prepare the APK file to be detected
-2.  Run the main program: `python main.py -a /path/to/apk`
-3.  View the generated detection report
+2.  Complete LLM and Android UI exploration related configurations
+3.  Run the main program: `python main.py -a /path/to/apk`
+4.  View the generated detection report
 
 ## Directory Structure
 
